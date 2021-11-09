@@ -1,13 +1,15 @@
 # go-web-cli
 
-## Build: ##
+## Install: ##
 ``` 
-go build -o web-cli  main.go   
+go get github.com/SrikanthBhandary/go-web-cli
 ```
+
+
 
 ## Usage: ##
 ```
-./web-cli --pkgname github.com/srikanthbhandary/cli   
+./go-web-cli --pkgname <pkgname>
 ```
 
 
