@@ -2,14 +2,14 @@
 
 ## Install: ##
 ``` 
-go get github.com/SrikanthBhandary/go-web-cli
+go install github.com/SrikanthBhandary/go-web-cli
 ```
 
 
 
 ## Usage: ##
 ```
-./go-web-cli --pkgname <pkgname>
+go-web-cli --pkgname <pkgname>
 ```
 
 
